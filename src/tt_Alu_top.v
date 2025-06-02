@@ -11,7 +11,7 @@ module tt_um_allanrodas74 (
     input  wire [7:0]  uio_in,    // No usado
     output wire [7:0]  uio_out,   // No usado
     output wire [7:0]  uio_oe,    // No usado
-    input  wire        ena,       // Habilitación
+  
    
 );
 
